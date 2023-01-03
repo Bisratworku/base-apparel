@@ -131,7 +131,7 @@ main {
                 
         grid-column-start: 1;
         grid-column-end:2 ;
-        border: 1px solid black;
+        
         padding: 2rem;
     }
     .logo img {
@@ -173,7 +173,7 @@ main {
         padding-right: 16rem;
     }
     .email {
-        border: 1px solid black;
+ 
         padding-top: 1rem;
         padding-left: 4rem;
         grid-column-start: 1;
